@@ -12,19 +12,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...& show_icons = true & theme = radical
 -->
 
 # Contribuições.
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysearaujo&hide=html&layout=compact&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysearaujo&hide=html&layout=compact&show_icons=true&theme=tokyonigh" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=laysearaujo&theme=cobalt" /></td>
-  </tr>  
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=laysearaujo&repo=comanda-blue&theme=cobalt" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=laysearaujo&repo=Sistema-Minhas-Financas-API&theme=cobalt" /></td>
-  </tr>  
+  </tr>   
 </table>
 </center>
