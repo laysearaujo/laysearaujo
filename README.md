@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysearaujo&hide=html&layout=compact&theme=merko" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysearaujo&hide=html&layout=compact&theme=dracula" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=laysearaujo&theme=merko" /></td>
   </tr>   
 </table>
