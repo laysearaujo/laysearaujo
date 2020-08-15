@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysearaujo&hide=html&layout=compact&show_icons=true&theme=tokyonigh" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=laysearaujo&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laysearaujo&hide=html&layout=compact&theme=tokyonight" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=laysearaujo&theme=tokyonight" /></td>
   </tr>   
 </table>
 </center>
