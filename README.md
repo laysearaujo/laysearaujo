@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...& show_icons = true & theme = radical
 -->
-
-# Contribuições.
 <center>
 <table>
   <tr>
